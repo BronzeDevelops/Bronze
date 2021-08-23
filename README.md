@@ -30,4 +30,4 @@ For any other inquires please contact via **Discord or Email**. ​
 [![Contact me via discord](https://badges.krynn.dev/discord/?id=213455114575413250)](https://github.com/BronzeDevelops)  [![Contact me via Email](https://badges.krynn.dev/email/?address=contact@bronze.dev)](https://github.com/BronzeCodes)
 
 
-[![Bronze Stats](https://github-readme-stats.vercel.app/api?username=BronzeDevelops&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bronze Stats](https://github-readme-stats.vercel.app/api?username=BronzeDevelops&show_icons=true&theme=gruvbox)](https://github.com/BronzeDevelops)<br/>
