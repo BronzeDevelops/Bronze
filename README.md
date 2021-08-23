@@ -1,4 +1,4 @@
-## Hey there, I am [Bronze](https://github.com/BronzeDevelops)
+## Hey there, I am [Bronze](https://github.com/BronzeDevelops) 👋
 
 [![Bronze Stats](https://github-readme-stats.vercel.app/api?username=BronzeDevelops&show_icons=true&theme=gruvbox)](https://github.com/BronzeDevelops)<br/>
 
