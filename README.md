@@ -1,4 +1,4 @@
-## Hey there, I am [Bronze](https://github.com/BronzeDevelops) 👋
+## Hey there, I am [Nick Erich](https://github.com/NickErich) 👋
 
 [![Bronze Stats](https://github-readme-stats.vercel.app/api?username=BronzeDevelops&show_icons=true&theme=gruvbox)](https://github.com/BronzeDevelops)<br/>
 
@@ -11,8 +11,9 @@
 ------------
 
 ### 🧠 - Skill Set
-- Plugin Development
-- Mod Development
+- Java Development
+- Node JS
+- HTML & CSS
 - Configuration
 - Optimizations
 ------------
