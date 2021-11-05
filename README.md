@@ -1,6 +1,6 @@
 ## Hey there, I am [Nick Erich](https://github.com/NickErich) 👋
 
-[![Bronze Stats](https://github-readme-stats.vercel.app/api?username=BronzeDevelops&show_icons=true&theme=gruvbox)](https://github.com/BronzeDevelops)<br/>
+[![Bronze Stats](https://github-readme-stats.vercel.app/api?username=NickErich&show_icons=true&theme=gruvbox)](https://github.com/NickErich)<br/>
 
 ### 🤵 - About me 
 - > I currently only develop in Java, but soon getting into other languages.
@@ -30,6 +30,6 @@ If you are interested in hiring me or have any questions in regards to a Spigot 
 For any other inquires please contact via **Discord or Email**. ​
 
 ## Contact Me 🖥️
-[![Contact me via discord](https://badges.krynn.dev/discord/?id=213455114575413250)](https://github.com/BronzeDevelops)  [![Contact me via Email](https://badges.krynn.dev/email/?address=contact@bronze.dev)](https://github.com/BronzeCodes)
+[![Contact me via discord](https://badges.krynn.dev/discord/?id=213455114575413250)](https://github.com/NickErich)  [![Contact me via Email](https://badges.krynn.dev/email/?address=contact@bronze.dev)](https://github.com/BronzeCodes)
 
 
